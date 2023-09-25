@@ -13,6 +13,7 @@ aside{
   padding: 8px 12px 20px;
   border-right: 1px solid lightgray;
   position: fixed;
+  background-color: white;
 }
 
 aside a img{
